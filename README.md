@@ -37,18 +37,16 @@ The system monitors vehicle movement, GPS location, speed, ignition status, and 
 
 ### GPS Route & Geofence Map
 
-chart1_gps_route_map.png
+![GPS Route Map](chart1_gps_route_map.png)
 
 ### Speed, Distance & Ignition Monitoring
-
-
-chart2_speed_distance_ignition.png
-
+![Vehicle Monitoring](chart2_speed_distance_ignition.png)
 
 ### Alert Analysis Dashboard
 
 
-chart3_alert_summary.png
+
+![Alert Dashboard](chart3_alert_summary.png)
 
 ---
 
